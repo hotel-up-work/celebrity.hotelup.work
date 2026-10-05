@@ -1,6 +1,6 @@
 # Celebrity / «Знаменитій»
 
-Live site: https://celebrity.webart.work
+Live site: https://celebrity.hotelup.work
 
 ## About
 Celebrity — камерне помешкання (`lodge_or_guest_house`) у Кам’янці-Подільському, вул. Гунська, 32. Сторінка продає «easy city stay» за формулою STAY · REST · EXPLORE: проживання, тераса, безкоштовні Wi-Fi і приватна парковка, кондиціонування, можна з тваринами. Сценарій конверсії — ARRIVE → PARK → STAY → EXPLORE; кампанійний рядок «Припаркуйте авто. Залиште речі. Кам’янець чекає.»
